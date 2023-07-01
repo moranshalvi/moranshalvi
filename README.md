@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi! 👋🏻 My name is Moran Shalom
 
-<!--
-**moranshalvi/moranshalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Full Stack Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello My name is Moran i am a full-stack engineer
+
+* 🌍 I'm actually from Israel
+
+* ✉️ You can contact me at [moranshalvi1@gmail.com](mailto:moranshalvi1@gmail.com)
+
+* 🧠 I'm learning Angular
+
+
+
+### My Skills
+
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg alt="" width="45px" height="45px"/><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/java-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg alt="" width="45px" height="45px"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/react-color.svg alt="" width="45px" height="45px"/><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nextjs-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/html5-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/css3-color.svg alt="" width="45px" height="45px"/><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/redux-color.svg alt="" width="45px" height="45px"/><a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nodejs-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/firebase-color.svg alt="" width="45px" height="45px"/><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/express-color.svg alt="" width="45px" height="45px"/><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg alt="" width="45px" height="45px"/><a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/eclipse-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/pycharm-color.svg alt="" width="45px" height="45px"/></p>
+
+
+### Find Me Also Here
+
+<p align="left"><a href=https://www.github.com/moranshalvi target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.facebook.com/moran.shalvi/ target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/facebook.svg width="45px" height="45px" /></a><a href=https://www.instagram.com/moranshalvi target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg width="45px" height="45px" /></a><a href=https://www.linkedin.com/in/moran-shalom target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg width="45px" height="45px" /></a></p>
+
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=moranshalvi&show_icons=true&theme=)
+
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=moranshalvi&show_icons=true&theme=dark)
