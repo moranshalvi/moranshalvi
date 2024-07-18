@@ -9,8 +9,6 @@ Hello My name is Moran i am a full-stack engineer
 
 * ✉️ You can contact me at [moranshalvi1@gmail.com](mailto:moranshalvi1@gmail.com)
 
-* 🧠 I'm learning Angular
-
 
 
 ### My Skills
